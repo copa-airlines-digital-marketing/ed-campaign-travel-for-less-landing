@@ -1,4 +1,4 @@
-<div class="w-full bg-primary min-h-[256px] grid grid-rows-[64px,auto,64px] mt-0 mb-64">
+<div class="w-full bg-primary min-h-[256px] grid grid-rows-[64px,auto,64px] mt-0 mb-64 !pb-32">
 	<div class="row-start-2">
 		<div class="flex  flex-col container mx-auto gap-24 ">	
 				<nav aria-label="Breadcrumb" class="">
@@ -10,7 +10,6 @@
 					<li class="text-grey-75 font-sans hover:underline active:underline">
 						<a href="promociones">Promociones</a>
 					</li>
-			
 
 					</ol>
 				</nav>
@@ -54,16 +53,15 @@
         cta="Conoce más"
         ctaurl="https://www.copaair.com/es-gs/legal/terminos-y-condiciones/terminos-condiciones-cambios-voluntarios/"
         ></topic-card>
-            <topic-card
-            imgurl="https://www.copaair.com/promotions/destinations/img/ddm-CO-CLO.jpg"
-            imgalt="Mantén tu reserva por hasta 24 horas sin costo en copa.com"
-            title="Mantén tu reserva por hasta 24 horas sin costo en copa.com"
-            desc="Al realizar una reserva en copa.com, podrás seleccionar la opción Reservar y guardar mi itinerario por 24 horas, y tu reservación se mantendrá activa por 24 horas gratuitamente.
-
-            Si la reservación no se paga dentro de las 24 horas, se cancelará automáticamente."
-            cta="Conoce más"
-            ctaurl="https://www.copaair.com/es-gs/legal/terminos-y-condiciones/terminos-condiciones-cambios-voluntarios/"
-            ></topic-card>
+    <topic-card
+    imgurl="https://www.copaair.com/promotions/destinations/img/ddm-CO-CLO.jpg"
+    imgalt="Mantén tu reserva por hasta 24 horas sin costo en copa.com"
+    title="Mantén tu reserva por hasta 24 horas sin costo en copa.com"
+    desc="Al realizar una reserva en copa.com, podrás seleccionar la opción Reservar y guardar mi itinerario por 24 horas, y tu reservación se mantendrá activa por 24 horas gratuitamente.
+    Si la reservación no se paga dentro de las 24 horas, se cancelará automáticamente."
+    cta="Conoce más"
+    ctaurl="https://www.copaair.com/es-gs/legal/terminos-y-condiciones/terminos-condiciones-cambios-voluntarios/"
+    ></topic-card>
     <topic-card
         imgurl="https://www.copaair.com/promotions/destinations/img/ddm-CO-CLO.jpg"
         imgalt="Nuestro respaldo post-compra en copa.com"
@@ -77,7 +75,7 @@
         imgurl="https://www.copaair.com/promotions/destinations/img/ddm-CO-CLO.jpg"
         imgalt="Accede a distintas formas de pago"
         title="Accede a distintas formas de pago"
-        desc="En copa.com cuentas con varias opciones disponibles para hacer tus pagos. Las opciones varían de país a país, por ende, debes seleccionar el portal correcto para poder efectuar sus pagos con tu moneda y medio de pago preferido."
+        desc="Descubre la magia de encontrar opciones de viaje más asequibles. Con la información correcta y las herramientas adecuadas, puedes hacer realidad tus aventuras sin comprometer tu presupuesto."
         cta="Conoce más"
         ctaurl="https://www.copaair.com/es-gs/descubre-copa-airlines/formas-de-pago/"
         ></topic-card>
