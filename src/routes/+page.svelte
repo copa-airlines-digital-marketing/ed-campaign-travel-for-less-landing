@@ -81,4 +81,13 @@
         ></topic-card>
 
 
+     
+
 </div>
+
+
+<div class="!w-full !mt-32 !overflow-y-hidden">
+    <div class="container mx-auto">
+    <p class="!font-heading !font-heading-bold !text-primary !text-display-small-md  ">Descubre tu destino so&ntilde;ado con estos 5 consejos imperdibles.<br>&iexcl;Empieza a planificar tu viaje perfecto ahora mismo!</p>
+    </div>
+    </div>
